@@ -1,0 +1,5 @@
+This repository was made stricty for this single rules file. It is the part of the safety survey code I worked on in the summer. It is a graph for rules. It linked rules to templates of nodes, and to nodes them selves. I given a lot of time to waste, I could prove the code is logically correct and perfect; that is how confident I am in it.
+
+The motivation for making such a strong underlying system, was that the original code had bugs and it was hard to weild, considering how many potential possabilities their were in how things were dependent on others.
+
+I decided to give up on trying to keeping a simple system and patching it, and went all out developing this rule graph.
